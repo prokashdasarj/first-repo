@@ -105,7 +105,3 @@ To check the task replace the space between the bracket with "x".
 [ ] Update the website
 [ ] Contact the user
 ```
-
-## Reference
-
-Link: [markdown guide](https://www.markdownguide.org/cheat-sheet)
